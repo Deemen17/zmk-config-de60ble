@@ -5,13 +5,14 @@ manifest:
     - name: Deemen17
       url-base: https://github.com/Deemen17
   projects:
-    - name: zmk
-      remote: zmkfirmware
-      revision: main
-      import: app/west.yml
+    # - name: zmk
+    #   remote: zmkfirmware
+    #   revision: main
+    #   import: app/west.yml
     - name: zmk
       remote: Deemen17
       revision: de60
+      import: app/west.yml
     - name: zmk-rgbled-widget
       remote: Deemen17
       revision: main
