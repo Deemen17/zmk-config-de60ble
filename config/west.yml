@@ -9,6 +9,9 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+    - name: zmk
+      remote: Deemen17
+      revision: de60
     - name: zmk-rgbled-widget
       remote: Deemen17
       revision: main

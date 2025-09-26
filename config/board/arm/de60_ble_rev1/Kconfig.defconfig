@@ -4,7 +4,7 @@
 if BOARD_DE60_BLE_REV1
 
 config ZMK_KEYBOARD_NAME
-    default "HKB"
+    default "DE60 BLE"
 
 if USB
 
