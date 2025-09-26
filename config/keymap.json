@@ -1,7 +1,7 @@
 {
   "keyboard": "de60_ble_rev1",
   "keymap": "de60_ble_rev1",
-  "layout": "WHITE All",
+  "layout": "RED - ANSI - Space 7U - Split Backspace - Split Right Shift",
   "layer_names": [
     "Windows",
     "Mac", 
